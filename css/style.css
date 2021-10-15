@@ -190,7 +190,6 @@ body {
           flex: 0 1 220px;
   font-size: 24px;
   line-height: 133.33333%;
-  letter-spacing: 0.1;
   font-weight: 700;
 }
 
@@ -237,7 +236,6 @@ body {
   color: #737373;
   font-weight: 600;
   font-size: 14px;
-  letter-spacing: 0.2;
   line-height: 171.42857%;
 }
 
@@ -306,7 +304,6 @@ body {
 .finance__title {
   font-weight: 800;
   font-size: 58px;
-  letter-spacing: 0.2;
   line-height: 137.93103%;
   color: #252b42;
 }
@@ -320,7 +317,6 @@ body {
 .finance__text {
   font-size: 20px;
   line-height: 150%;
-  letter-spacing: 0.2;
 }
 
 @media (max-width: 1024px) {
@@ -331,7 +327,6 @@ body {
 
 .finance__buttons {
   font-size: 14px;
-  letter-spacing: 0.2;
   line-height: 200%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -483,14 +478,12 @@ body {
   font-weight: 700;
   font-size: 24px;
   line-height: 133.33333%;
-  letter-spacing: 0.1;
   color: #252b42;
 }
 
 .service-card__text {
   font-size: 14px;
   line-height: 142.85714%;
-  letter-spacing: 0.2;
   color: #737373;
 }
 
@@ -533,7 +526,6 @@ body {
   font-weight: 700;
   font-size: 40px;
   line-height: 142.5%;
-  letter-spacing: 0.2;
   color: #252b42;
 }
 
@@ -546,7 +538,6 @@ body {
 .blocktitle__text {
   font-size: 14px;
   line-height: 142.85714%;
-  letter-spacing: 0.2;
   max-width: 500px;
   margin: 0px auto;
 }
@@ -630,7 +621,6 @@ body {
   font-size: 40px;
   line-height: 142.5%;
   color: #252b42;
-  letter-spacing: 0.2;
 }
 
 .item-achivement__category {
@@ -638,7 +628,6 @@ body {
   font-size: 16px;
   font-weight: 700;
   line-height: 92.30769%;
-  letter-spacing: 0.1;
   color: #737373;
 }
 
@@ -768,13 +757,11 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 150%;
-  letter-spacing: 0.1;
   color: #252b42;
   padding: 0px 0px 15px 0px;
 }
 
 .item-advice__text {
-  letter-spacing: 0.2;
   font-size: 14px;
   line-height: 142.85714%;
   color: #737373;
@@ -895,7 +882,6 @@ body {
   font-weight: 700;
   font-size: 40px;
   line-height: 142.5%;
-  letter-spacing: 0.2;
   color: #252b42;
 }
 
@@ -908,7 +894,6 @@ body {
 .most-content__text {
   font-size: 14px;
   line-height: 142.85714%;
-  letter-spacing: 0.2;
 }
 
 .block-fox__item {
@@ -933,14 +918,12 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 150%;
-  letter-spacing: 0.1;
   color: #252b42;
 }
 
 .fox-content__text {
   font-size: 14px;
   line-height: 171.42857%;
-  letter-spacing: 0.2;
   font-weight: 600;
 }
 
@@ -1069,7 +1052,6 @@ body {
   color: #ffffff;
   font-size: 24px;
   line-height: 133.33333%;
-  letter-spacing: 0.1;
   max-width: 266px;
 }
 
@@ -1101,7 +1083,6 @@ input {
   padding: 0px 0px 0px 20px;
   font-size: 14px;
   line-height: 200%;
-  letter-spacing: 0.2;
   color: #737373;
   background: #f9f9f9;
   -webkit-transition: all 0.6s ease 0s;
@@ -1133,7 +1114,6 @@ input:hover {
   font-size: 14px;
   line-height: 200%;
   text-align: center;
-  letter-spacing: 0.2;
   border-radius: 0px 5px 5px 0px;
 }
 
@@ -1290,7 +1270,6 @@ input:hover {
   font-weight: 600;
   font-size: 14px;
   line-height: 171.42857%;
-  letter-spacing: 0.2;
   color: #252b42;
 }
 
@@ -1298,7 +1277,6 @@ input:hover {
   font-weight: 700;
   font-size: 16px;
   line-height: 150%;
-  letter-spacing: 0.1;
   color: #252b42;
 }
 
@@ -1306,7 +1284,6 @@ input:hover {
   font-weight: 600;
   font-size: 14px;
   line-height: 171.42857%;
-  letter-spacing: 0.2;
   color: #ff7b47;
   border: 1px solid #ff7b47;
   border-radius: 5px;
@@ -1383,7 +1360,6 @@ input:hover {
   font-weight: 700;
   font-size: 24px;
   line-height: 133.33333%;
-  letter-spacing: 0.1;
   color: #252b42;
   margin: 0px 0px 10px 0px;
 }
@@ -1398,7 +1374,6 @@ input:hover {
   font-weight: 500;
   font-size: 14px;
   line-height: 142.85714%;
-  letter-spacing: 0.2;
 }
 
 @media (max-width: 750px) {
@@ -1416,7 +1391,6 @@ input:hover {
   font-weight: 700;
   font-size: 14px;
   line-height: 200%;
-  letter-spacing: 0.2;
   text-align: center;
   margin: 0px 38px;
 }
@@ -1490,7 +1464,6 @@ input:hover {
   color: #ffffff;
   font-size: 16px;
   line-height: 150%;
-  letter-spacing: 0.1;
   font-weight: 700;
   margin: 0px 0px 20px 0px;
 }
@@ -1500,7 +1473,6 @@ input:hover {
   color: #ffffff;
   font-size: 14px;
   line-height: 171.42857%;
-  letter-spacing: 0.2;
   font-weight: 600;
   margin: 0px 0px 10px 0px;
 }
@@ -1525,7 +1497,6 @@ input:hover {
   color: #ffffff;
   font-size: 16px;
   line-height: 150%;
-  letter-spacing: 0.1;
   font-weight: 700;
   margin: 0px 0px 20px 0px;
 }
@@ -1536,7 +1507,6 @@ input:hover {
   color: #ffffff;
   font-size: 14px;
   line-height: 171.42857%;
-  letter-spacing: 0.2;
   font-weight: 600;
   margin: 0px 0px 10px 0px;
 }
@@ -1552,7 +1522,6 @@ input:hover {
   color: #ffffff;
   font-size: 14px;
   line-height: 171.42857%;
-  letter-spacing: 0.2;
   font-weight: 600;
   margin: 0px 0px 10px 0px;
 }
@@ -1562,7 +1531,6 @@ input:hover {
   color: #ffffff;
   font-size: 14px;
   line-height: 171.42857%;
-  letter-spacing: 0.2;
   font-weight: 600;
 }
 
@@ -1606,7 +1574,6 @@ input:hover {
   font-weight: 600;
   font-size: 16px;
   line-height: 150%;
-  letter-spacing: 0.2;
 }
 
 @media (max-width: 430px) {
